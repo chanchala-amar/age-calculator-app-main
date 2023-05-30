@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot.png)
+![](./assets/images/Screenshot.png)
 
 ### Links
 
